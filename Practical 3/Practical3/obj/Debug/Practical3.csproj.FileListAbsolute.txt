@@ -1,0 +1,14 @@
+D:\BIT\1st year\1st semester\visual application programing\Practical3\Practical3\bin\Debug\Practical3.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Practical3\Practical3\bin\Debug\Practical3.exe
+D:\BIT\1st year\1st semester\visual application programing\Practical3\Practical3\bin\Debug\Practical3.pdb
+D:\BIT\1st year\1st semester\visual application programing\Practical3\Practical3\obj\Debug\Practical3.csprojAssemblyReference.cache
+D:\BIT\1st year\1st semester\visual application programing\Practical3\Practical3\obj\Debug\Practical3.csproj.CoreCompileInputs.cache
+D:\BIT\1st year\1st semester\visual application programing\Practical3\Practical3\obj\Debug\Practical3.exe
+D:\BIT\1st year\1st semester\visual application programing\Practical3\Practical3\obj\Debug\Practical3.pdb
+D:\BIT\1st year\1st semester\visual application programing\Practical 3\Practical3\bin\Debug\Practical3.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Practical 3\Practical3\bin\Debug\Practical3.exe
+D:\BIT\1st year\1st semester\visual application programing\Practical 3\Practical3\bin\Debug\Practical3.pdb
+D:\BIT\1st year\1st semester\visual application programing\Practical 3\Practical3\obj\Debug\Practical3.csprojAssemblyReference.cache
+D:\BIT\1st year\1st semester\visual application programing\Practical 3\Practical3\obj\Debug\Practical3.csproj.CoreCompileInputs.cache
+D:\BIT\1st year\1st semester\visual application programing\Practical 3\Practical3\obj\Debug\Practical3.exe
+D:\BIT\1st year\1st semester\visual application programing\Practical 3\Practical3\obj\Debug\Practical3.pdb
