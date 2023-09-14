@@ -1,0 +1,10 @@
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\bin\Debug\Zigma.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\bin\Debug\Zigma.exe
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\bin\Debug\Zigma.pdb
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\obj\Debug\Zigma.Form1.resources
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\obj\Debug\Zigma.Properties.Resources.resources
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\obj\Debug\Zigma.csproj.GenerateResource.cache
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\obj\Debug\Zigma.csproj.CoreCompileInputs.cache
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\obj\Debug\Zigma.exe
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\obj\Debug\Zigma.pdb
+D:\BIT\1st year\1st semester\visual application programing\Exercises\Zigma\Zigma\obj\Debug\Zigma.csproj.AssemblyReference.cache
